@@ -1,0 +1,25 @@
+[{
+    "firstName": "sasha",
+    "lastName": "sasha name",
+    "email": "sasha last name",
+    "birthday": "2016-01-01",
+    "password": "123",
+    "roles": ["ROLE_USER"]
+},
+{
+    "firstName": "misha",
+    "lastName": "misha name",
+    "email": "misha last name",
+    "birthday": "2016-01-01",
+    "password": "123",
+    "roles": ["ROLE_USER"]
+},
+{
+    "firstName": "pete",
+    "lastName": "pete name",
+    "email": "pete last name",
+    "birthday": "2016-01-01",
+    "password": "123",
+    "roles": ["ROLE_USER"]
+}
+]

@@ -1,0 +1,25 @@
+[  
+   {  
+      "airDates":[  
+         "2016-01-01T20:03:20",
+         "2016-02-15T10:15:00"
+      ],
+      "auditoriums":{  
+         "2016-01-01T20:03:20" : "October",
+         "2016-02-15T10:15:00" : "October"
+      },
+      "basePrice":150,
+      "name":"new Event1",
+      "rating":"HIGH"
+   },
+   {  
+      "airDates":[  
+         "2016-01-01T20:03:20",
+         "2016-02-15T10:15:00"
+      ],
+      "basePrice":150,
+      "name":"new Event2",
+      "rating":"LOW"
+   }
+]
+

@@ -1,0 +1,9 @@
+{
+    "id": 10,
+    "firstName": "sasha",
+    "lastName": "sasha name",
+    "email": "sasha last name",
+    "birthday": LocalDate("2015-12-29"),
+    "password": "123",
+    "roles": ["ROLE_USER"]
+}
